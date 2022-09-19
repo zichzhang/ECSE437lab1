@@ -1,4 +1,5 @@
 // Zi Chao Zhang 260986476
+// zi.c.zhang@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
